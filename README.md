@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Grant's GitHub Banner](https://westbuena.s3.us-east-2.amazonaws.com/GER.png)](https://grantellisrussell.com)
+
 
 <!--
 **grantongrant/grantongrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
